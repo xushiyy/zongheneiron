@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xushiyy.github.io/zongheneiron/sitemap.xml
